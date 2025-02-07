@@ -1,0 +1,2 @@
+a = "isaac"
+print(a)
